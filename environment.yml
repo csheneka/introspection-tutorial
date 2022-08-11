@@ -10,3 +10,4 @@ dependencies:
     - astropy
     - tensorflow=2.8
     - scikit-learn
+    - shap
