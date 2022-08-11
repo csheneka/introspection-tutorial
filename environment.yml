@@ -8,5 +8,5 @@ dependencies:
     - matplotlib
     - scipy
     - astropy
-    - tensorflow
+    - tensorflow=2.8
     - scikit-learn
