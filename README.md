@@ -1,6 +1,8 @@
 # Introspection Tutorial
 A hands-on tutorial to get started with different aspects of neural network introspection.
 
+Full binder image can be found here: <a target="_blank" rel="noopener noreferrer" href="https://mybinder.org/v2/gh/csheneka/introspection-tutorial/HEAD"> <img src="https://mybinder.org/badge_logo.svg" alt="drawing" width="50"/> </a>
+
 ### Exercise: Feature Importance
 
 Example and Solution: SHAP (SHapley Additive exPlanations) to rank importance of input features
