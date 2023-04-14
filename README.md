@@ -15,7 +15,7 @@ Example and Solution: SHAP (SHapley Additive exPlanations) to rank importance of
 
 Example: Visualization of 3D convolutional network trained on a regression task
 
-<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/csheneka/introspection-tutorial/blob/main/visualisation_exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="150"/> </a>
+<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/csheneka/introspection-tutorial/blob/main/visualisation_3D-21cmPIE-Net.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="150"/> </a>
 
 Solutions can be found here: <a target="_blank" rel="noopener noreferrer" href="https://github.com/csheneka/introspection-tutorial/blob/main/visualisation_solutions.ipynb"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="drawing" width="50"/> </a> 
 
